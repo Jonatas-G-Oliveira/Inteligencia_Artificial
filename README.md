@@ -1,2 +1,3 @@
 # Inteligencia_Artificial
-Repositória para estudo de IA
+
+## É necessário entender melhor o funcionamento dos dicionarios em python
